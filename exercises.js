@@ -10,6 +10,10 @@ Write a for-loop that will iterate through 20 numbers (starting at 1 and ending 
 */
 
 
+for (var i = 1; i < 21; i++) {
+   console.log('Now serving', i);
+}
+
 /* 2) Pop Charts
 Write a for-loop that will iterate through the topFive array below and console.log the following message:
 This week's chart buster is: 'Closer.'
